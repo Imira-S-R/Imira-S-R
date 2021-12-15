@@ -25,4 +25,9 @@ Here are some ideas to get you started:
 
 <br />
 
-[![Imira's github stats](https://github-readme-stats.vercel.app/api?username=Imira-S-R&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
+<a href="https://lon9.github.io">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Imira-S-R&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://lon9.github.io">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imira-S-R&theme=dark&hide=html" />
+</a>
