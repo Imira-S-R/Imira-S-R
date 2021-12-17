@@ -25,6 +25,12 @@ Here are some ideas to get you started:
 
 <br />
 
+<p align="center">
+    <a href="">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Imira Randeniya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Imira-S-R&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+    </a>
+</p>
+
 <a href="https://lon9.github.io">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Imira-S-R&count_private=true&show_icons=true&theme=dark" />
 </a>
