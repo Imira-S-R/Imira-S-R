@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Imira Randeniya, I am a 14 year old student. I make mobile and web apps for fun. I love programming and making apps.
+### My name is Imira Randeniya, I am a 15 year old student. I make mobile and web apps for fun. I love programming and making apps.
 
 <!--
 **Imira-S-R/Imira-S-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
